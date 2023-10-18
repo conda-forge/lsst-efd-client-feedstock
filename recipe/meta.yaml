@@ -36,6 +36,7 @@ requirements:
     - pyyaml
     - pytables
     - kafkit
+    - requests
 
 test:
   imports:
