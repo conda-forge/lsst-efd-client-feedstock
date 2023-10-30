@@ -16,7 +16,7 @@ build:
 
 requirements:
   host:
-    - python >=3.7
+    - python >=3.10
     - setuptools
     - setuptools-scm
     - pip ==19.2.3
@@ -28,7 +28,7 @@ requirements:
     - twine
     - pytest-runner
   run:
-    - python >=3.7
+    - python >=3.10
     - numpy <1.26
     - aioinflux
     - pandas
