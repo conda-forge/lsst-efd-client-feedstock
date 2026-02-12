@@ -6,11 +6,15 @@ This feedstock is deprecated as of November 2025 and incompatible with Python 3.
 
 Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/lsst-efd-client-feedstock/blob/main/LICENSE.txt)
 
-Home: https://github.com/lsst-sqre/lsst-efd-client
+Home: https://github.com/lsst-ts/lsst-efd-client
 
 Package license: MIT
 
 Summary: Utility classes for working with the LSST EFD.
+
+Development: https://github.com/lsst-ts/lsst-efd-client
+
+Documentation: https://lsst-efd-client.lsst.io/
 
 Current build status
 ====================
