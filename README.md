@@ -1,9 +1,6 @@
 About lsst-efd-client-feedstock
 ===============================
 
-Note: The lsst-efd-client can now be found at [conda channel: lsstts/lsst-efd-client](https://anaconda.org/channels/lsstts/packages/lsst-efd-client/overview).
-This feedstock is deprecated as of November 2025 and incompatible with Python 3.13.
-
 Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/lsst-efd-client-feedstock/blob/main/LICENSE.txt)
 
 Home: https://github.com/lsst-ts/lsst-efd-client
@@ -20,11 +17,10 @@ Current build status
 ====================
 
 
-<table><tr><td>All platforms:</td>
+<table><tr>
+    <td>All platforms:</td>
     <td>
-      <a href="https://dev.azure.com/conda-forge/feedstock-builds/_build/latest?definitionId=19461&branchName=main">
-        <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/lsst-efd-client-feedstock?branchName=main">
-      </a>
+      <img src="https://img.shields.io/badge/noarch-disabled-lightgrey.svg" alt="noarch disabled">
     </td>
   </tr>
 </table>
