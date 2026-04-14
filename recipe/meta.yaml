@@ -1,5 +1,5 @@
 {% set name = "lsst-efd-client" %}
-{% set version = "0.14.2" %}
+{% set version = "1.0.0" %}
 {% set python_min = "3.12" %}
 
 package:
@@ -8,7 +8,7 @@ package:
 
 source:
   url: https://github.com/lsst-ts/{{ name }}/archive/v{{ version }}.tar.gz
-  sha256: 0ea5b3c198d04e8b3979699721b0682aad7edb2171778b3951e0181f453eb99d
+  sha256: 4a849e8eb8011248b09ace29a9ce88aec652ae7b6620543a83a7d31980954e0b
 
 build:
   noarch: python
